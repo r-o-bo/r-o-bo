@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [Algorithmic Chessboard Knight.](https://github.com/r-o-bo/.ipynb_checkpoints)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and Game development.**
+- 🌱 I’m currently learning and interested in **Data Structures and Algorithms, Machine Learning and Game development.**
 
 - 📫 How to reach me **satviksr.rx@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RcP78eJtBVojXXc7vmrDa0_89RZB9QWn/edit?usp=drive_link&ouid=104291752844026828830&rtpof=true&sd=true](https://docs.google.com/document/d/1RcP78eJtBVojXXc7vmrDa0_89RZB9QWn/edit?usp=drive_link&ouid=104291752844026828830&rtpof=true&sd=true)
-
-- ⚡ Fun fact **public static void main string args 💅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
