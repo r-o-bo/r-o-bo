@@ -1,7 +1,7 @@
 <h1 align="center">What's up! 👋, I'm Robo</h1>
 <h3 align="center">I'm currently an undergrad student.</h3>
 
-- 🔭 I’m currently working on [Algorithmic Chessboard Knight.](https://github.com/r-o-bo/.ipynb_checkpoints)
+- 🔭 I’m currently working on [A.C.T.](https://github.com/r-o-bo/.ipynb_checkpoints)
 
 - 🌱 I’m currently learning and interested in **Data Structures and Algorithms, Machine Learning and Game development.**
 
