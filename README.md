@@ -1,4 +1,4 @@
-<h1 align="center">What's up!! 👋, I'm Robo</h1>
+<h1 align="center">Greetings! 👋, I'm Robo</h1>
 <h3 align="center">I'm currently an undergrad student.</h3>
 
 - 🔭 I’m currently working on [A.C.T.](https://github.com/r-o-bo/.ipynb_checkpoints)
