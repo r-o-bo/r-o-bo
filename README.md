@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning and interested in **the Cloud, Machine Learning and Game development.**
 
-- 📫 How to reach me **satviksr.rx@gmail.com**
+- 📫 How to reach me: **satviksr.rx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
