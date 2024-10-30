@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-o-bo&label=Profile%20views&color=0e75b6&style=flat" alt="r-o-bo" /> </p>
 
-- 🔭 I’m currently working on A.T.K
+- 🔭 I’m currently working on A.T.K and web-scraping :)
 
 - 🌱 I’m currently learning and interested in **the Cloud, Machine Learning and Game development.**
 
