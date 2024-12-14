@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on A.T.K and web-scraping :)
 
-- 🌱 I’m currently learning and interested in **Cloud computing and Machine Learning**
+- 🌱 I’m currently learning and interested in **Cloud computing, ML, Data extraction and analysis**
 
 - 📫 How to reach me: **satviksr.rx@gmail.com**
 
