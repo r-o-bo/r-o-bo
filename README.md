@@ -3,67 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-o-bo&label=Profile%20views&color=0e75b6&style=flat" alt="r-o-bo" /> </p>
 
+## 🚀 About Me
+
 - 🔭 I’m currently working on A.T.K and web-scraping :)
 
 - 🌱 I’m currently learning and interested in **Cloud computing, ML, Data extraction and analysis**
 
 - 📫 How to reach me: **satviksr.rx@gmail.com**
 
----
+## 💻 Skills & Expertise:
 
+| Language   |                                                                                                                | Language   |                                                                                                               |
+|-------------|--------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
+|C| <img src="https://github.com/user-attachments/assets/18d086ca-1eb4-4a97-b908-d4660c844896" width="20" height="20"> |C#| <img src="https://github.com/user-attachments/assets/1b8ac9b8-0245-43fb-9775-f332fd0e60bd" width="20" height="20">|
+|JavaScript| <img src="https://github.com/user-attachments/assets/fc57837b-873e-4f28-a1af-d9a3c9d82888" width="20" height="20"> |Python| <img src="https://github.com/user-attachments/assets/5ff68630-fb3a-4f6a-ba48-1c5b13ad3310" width="20" height="20">|
+|PowerShell| <img src="https://github.com/user-attachments/assets/de771f23-75b2-4a37-89ee-dbb273804857" width="20" height="20"> |Lua| <img src="https://github.com/user-attachments/assets/404c0f00-c809-4501-bac1-01c89aa203b0" width="20" height="20">| 
+|CSS| <img src="https://github.com/user-attachments/assets/fff8dec7-001b-40a9-b1d7-9222edaecd08" width="20" height="20"> |HTML| <img src="https://github.com/user-attachments/assets/c0785a3f-5027-4808-bfca-ab1b99c6d7cd" width="20" height="20">|
+|Shell| <img src="https://github.com/user-attachments/assets/136a1460-372b-41db-8fda-e93de130ae94" width="20" height="20">| | |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-</p>
-
+### Tools & Technologies:
+| Category         | Tools                                               |
+|------------------|-----------------------------------------------------|
+| Development      | Flask <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="20" height="20"> / .NET <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20" height="20"> |
+| Data Analysis    | numpy <img src="https://numpy.org/images/logo.svg" width="20" height="20"> / pandas <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="20" height="20"> / matplotlib <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="20" height="20"> / seaborn <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="20" height="20"> / beautifulsoup  / selenium <img src="https://selenium.dev/images/selenium_logo_square_green.png" width="20" height="20"> |
+| Operating Systems| Linux <img src="https://github.com/user-attachments/assets/514bd9f7-1d74-43c3-9859-c56a8d2b97ba" width="20" height="20"> (Mint) <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="20" height="20"> |
+| Databases        | MySQL <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="20" height="20"> / PostgreSQL <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20"> / MSSQL <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="20" height="20"> / MongoDB <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="20" height="20"> |
+| Cloud Orchestration | Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="20" height="20"> / Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="20" height="20"> / Jenkins <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="20" height="20"> / Jira  |
