@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on A.T.K and web-scraping :)
+- 🔭 I’m currently working on web scraping
 
 - 🌱 I’m currently learning and interested in **Cloud computing, ML, Data extraction and analysis**
 
