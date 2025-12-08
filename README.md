@@ -11,14 +11,17 @@
 
 - 📫 How to reach me: **satviksr.rx@gmail.com**
 
+
 ## 💻 Skills & Expertise:
 
 | Language     |                                                                                                                | Language   |                                                                                                               |
 |--------------|----------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------|
 | Python       | <img src="https://github.com/user-attachments/assets/5ff68630-fb3a-4f6a-ba48-1c5b13ad3310" width="20" height="20"> | JavaScript | <img src="https://github.com/user-attachments/assets/fc57837b-873e-4f28-a1af-d9a3c9d82888" width="20" height="20"> |
-| Lua          | <img src="https://github.com/user-attachments/assets/404c0f00-c809-4501-bac1-01c89aa203b0" width="20" height="20"> | PowerShell | <img src="https://github.com/user-attachments/assets/de771f23-75b2-4a37-89ee-dbb273804857" width="20" height="20"> |
+| Java         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"> | PowerShell | <img src="https://github.com/user-attachments/assets/de771f23-75b2-4a37-89ee-dbb273804857" width="20" height="20"> |
 | HTML         | <img src="https://github.com/user-attachments/assets/c0785a3f-5027-4808-bfca-ab1b99c6d7cd" width="20" height="20"> | CSS        | <img src="https://github.com/user-attachments/assets/fff8dec7-001b-40a9-b1d7-9222edaecd08" width="20" height="20"> |
 | Shell        | <img src="https://github.com/user-attachments/assets/136a1460-372b-41db-8fda-e93de130ae94" width="20" height="20"> |            |                                                                                                                |
+                                                                                                           |
+
 
 
 ### Tools & Technologies:
