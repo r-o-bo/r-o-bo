@@ -1,34 +1,43 @@
-<h1 align="center">Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> I'm Robo 🤖</h1>
-<h3 align="center">I'm currently an undergrad student.</h3>
+<h1 align="center">
+  Hello world!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <br>
+  I'm Robo 🤖
+</h1>
 
+<h3 align="center"> yet another CS undergrad</h3>
 
+---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a lot of stuff
+- :telescope: I’m currently working on a lot of stuff
+- :seedling: I’m currently learning and interested in **Cloud computing, ML, Data warehousing and analysis**
+- :mailbox: How to reach me: **satviksr.rx@gmail.com**
 
-- 🌱 I’m currently learning and interested in **Cloud computing, ML, Data extraction and analysis**
+---
 
-- 📫 How to reach me: **satviksr.rx@gmail.com**
+## 💻 Skills & Expertise
 
+| Language     |                                                                 | Language      |                                                                 |
+|--------------|-----------------------------------------------------------------|---------------|-----------------------------------------------------------------|
+| Python       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22"> | JavaScript   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22" height="22"> |
+| Java         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22" height="22"> | PowerShell   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="22" height="22"> |
+| HTML         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22" height="22"> | CSS          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22" height="22"> |
+| Shell (Bash) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="22" height="22"> |               |                                                                 |
 
-## 💻 Skills & Expertise:
+---
 
-| Language     |                                                                                                                | Language   |                                                                                                               |
-|--------------|----------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------|
-| Python       | <img src="https://github.com/user-attachments/assets/5ff68630-fb3a-4f6a-ba48-1c5b13ad3310" width="20" height="20"> | JavaScript | <img src="https://github.com/user-attachments/assets/fc57837b-873e-4f28-a1af-d9a3c9d82888" width="20" height="20"> |
-| Java         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"> | PowerShell | <img src="https://github.com/user-attachments/assets/de771f23-75b2-4a37-89ee-dbb273804857" width="20" height="20"> |
-| HTML         | <img src="https://github.com/user-attachments/assets/c0785a3f-5027-4808-bfca-ab1b99c6d7cd" width="20" height="20"> | CSS        | <img src="https://github.com/user-attachments/assets/fff8dec7-001b-40a9-b1d7-9222edaecd08" width="20" height="20"> |
-| Shell        | <img src="https://github.com/user-attachments/assets/136a1460-372b-41db-8fda-e93de130ae94" width="20" height="20"> |            |                                                                                                                |
+## 🛠️ Tools & Technologies
 
+| Category | Tools |
+|--------|-------|
+| Development | Flask <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="20" height="20"> / FastAPI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="20" height="20"> / Spring Boot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20"> / Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" height="20"> / Express <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20" height="20"> / React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"> |
+| Data Analysis | NumPy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="20" height="20"> / Pandas <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20" height="20"> / Matplotlib <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="20" height="20"> / Seaborn <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="20" height="20"> / BeautifulSoup / Selenium <img src="https://selenium.dev/images/selenium_logo_square_green.png" width="20" height="20"> |
+| Operating Systems | Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"> (Debian) <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" width="20" height="20"> |
+| Databases | MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20"> / PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" height="20"> / MS SQL Server <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="20" height="20"> / MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" height="20"> |
+| Cloud Services | AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20" height="20"> / Azure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20" height="20"> / OCI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="20" height="20"> |
+| DevOps and Infra | Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="20" height="20"> / Kubernetes <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="20" height="20"> / Jenkins <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="20" height="20"> / Jira |
 
+---
 
-### Tools & Technologies:
-| Category         | Tools                                               |
-|------------------|-----------------------------------------------------|
-| Development      | Flask <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="20" height="20"> / Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" height="20"> / Express <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20" height="20"> / React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"> |
-| Data Analysis    | numpy <img src="https://numpy.org/images/logo.svg" width="20" height="20"> / pandas <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="20" height="20"> / matplotlib <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="20" height="20"> / seaborn <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="20" height="20"> / beautifulsoup  / selenium <img src="https://selenium.dev/images/selenium_logo_square_green.png" width="20" height="20"> |
-| Operating Systems| Linux <img src="https://github.com/user-attachments/assets/514bd9f7-1d74-43c3-9859-c56a8d2b97ba" width="20" height="20"> (Debian) <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" width="20" height="20"> |
-| Databases        | MySQL <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="20" height="20"> / PostgreSQL <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20"> / MSSQL <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="20" height="20"> / MongoDB <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="20" height="20"> |
-| Cloud Services   | AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20" height="20"> / Azure <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="20" height="20"> |
-| DevOps           | Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="20" height="20"> / Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="20" height="20"> / Jenkins <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="20" height="20"> / Jira  |
