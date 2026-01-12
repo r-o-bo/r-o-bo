@@ -7,7 +7,6 @@
 
 <h3 align="center"> yet another CS undergrad</h3>
 
----
 
 ## 🚀 About Me
 
