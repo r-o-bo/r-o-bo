@@ -8,7 +8,7 @@
 <h3 align="center"> yet another CS undergrad</h3>
 
 
-## 🚀 About Me
+## About Me
 
 - :telescope: I’m currently working on a lot of stuff
 - :seedling: I’m currently learning and interested in **Cloud computing, ML, Data warehousing and analysis**
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Skills & Expertise
+## Skills & Expertise
 
 | Language     |                                                                 | Language      |                                                                 |
 |--------------|-----------------------------------------------------------------|---------------|-----------------------------------------------------------------|
@@ -28,7 +28,7 @@
 ---
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
