@@ -8,10 +8,6 @@
 <h3 align="center"> yet another CS undergrad</h3>
 
 
-## About Me
-
-- :telescope: I’m currently working on a lot of stuff
-- :seedling: I’m currently learning and interested in **Cloud computing, ML, Data warehousing and analysis**
 - :mailbox: How to reach me: **satviksr.rx@gmail.com**
 
 ---
