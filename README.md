@@ -7,32 +7,25 @@
 
 <h3 align="center"> yet another CS undergrad</h3>
 
+## Tools & Tech:
 
-- :mailbox: How to reach me: **satviksr.rx@gmail.com**
+### Languages
+`Python` `Java` `JavaScript` `PowerShell` `Bash Shell Script`
 
----
+### Backend
+`Flask` `FastAPI` `Spring Boot` `REST APIs`
 
-## Skills & Expertise
+### Data & Automation
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `BeautifulSoup` `Selenium`
 
-| Language     |                                                                 | Language      |                                                                 |
-|--------------|-----------------------------------------------------------------|---------------|-----------------------------------------------------------------|
-| Python       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22"> | JavaScript   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22" height="22"> |
-| Java         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22" height="22"> | PowerShell   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="22" height="22"> |
-| HTML         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22" height="22"> | CSS          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22" height="22"> |
-| Shell (Bash) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="22" height="22"> |               |                                                                 |
+### Databases
+`PostgreSQL` `MySQL` `SQL Server` `MongoDB`
 
----
+### Cloud
+`AWS` `Azure` `OCI`
 
+### DevOps & Infrastructure
+`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform` `Ansible` `Grafana`  
 
-## Tools & Technologies
-
-| Category | Tools |
-|----------|-------|
-| Development | Flask <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="20"/> <br> FastAPI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="20"/> <br> Spring Boot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20"/> |
-| Data Analysis | NumPy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="20"/> <br> Pandas <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20"/> <br> Matplotlib <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="20"/> <br> Seaborn <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="20"/> <br> BeautifulSoup / Selenium <img src="https://selenium.dev/images/selenium_logo_square_green.png" width="20"/> |
-| Operating Systems | Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/> (Debian) <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" width="20"/> |
-| Databases | MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> <br> PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> <br> MS SQL Server <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="20"/> <br> MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> |
-| Cloud Services | AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20"/> <br> Azure <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20"/> <br> OCI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="20"/> |
-| DevOps and Infra | Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="20"/> <br> Kubernetes <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="20"/> <br> Jenkins <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="20"/> <br> Jira |
----
-
+### Project Management
+`Jira` `Confluence`
