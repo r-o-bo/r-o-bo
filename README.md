@@ -10,10 +10,10 @@
 ## Tools & Tech:
 
 ### Languages
-`Python` `Java` `JavaScript` `PowerShell` `Bash Shell Script`
+`Python` `Java` `JavaScript` `TypeScript` `PowerShell` `Bash Shell Script`
 
 ### Backend
-`Flask` `FastAPI` `Spring Boot` `REST APIs`
+`Flask` `FastAPI` `Next.js` `REST APIs`
 
 ### Data & Automation
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `BeautifulSoup` `Selenium`
